@@ -1,0 +1,21 @@
+---
+galaxy_info:
+  author: Ronny Roethof
+  description: Install packages required for compiling C software from source.
+  license: GPLv2
+  min_ansible_version: 1.6
+  platforms:
+  - name: EL
+    versions:
+    - all
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Debian
+    versions:
+    - all
+  categories:
+  - development
+  - system
+dependencies: []
+  
